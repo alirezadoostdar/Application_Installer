@@ -35,4 +35,4 @@ This is a fully functional **Windows desktop installer** project developed in **
 Clone the repository and build the project using Visual Studio:
 
 ```bash
-git clone https://github.com/yourusername/your-installer-project.git
+git clone https://github.com/alirezadoostdar/Application_Installer.git
